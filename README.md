@@ -19,3 +19,5 @@ I'm learning how to use **Git**, **commits**, and **repositories** step by step.
 ---
 
 Made with ❤️ by [av0904](https://github.com/av0904)
+
+Proof for Base Guild ✅ (22 Oct 2025)
