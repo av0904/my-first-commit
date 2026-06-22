@@ -1,23 +1,24 @@
 # My First Commit 🚀
 
-This is my first GitHub repository!  
-I'm learning how to use **Git**, **commits**, and **repositories** step by step. 💪
+This is my first GitHub repository.
 
----
+I created this project to practice the basics of Git, GitHub, commits, and repository structure.
 
-## 📁 Files in this repo:
-- `hello.txt` — my first file
-- `info.txt` — my second file
+## What this repository contains
 
----
+* `hello.txt` — my first test file
+* `info.txt` — a second file for practicing commits
+* `proof.txt` — a file used to practice updates and changes
 
-## 💡 What I learned
-✅ How to create a repo  
-✅ How to make commits  
-✅ How to edit files directly on GitHub  
+## What I learned
 
----
+* How to create a GitHub repository
+* How to add files
+* How to make commits
+* How to update existing files
+* How to organize a simple repository
+* How to write a basic README file
 
-Made with ❤️ by [av0904](https://github.com/av0904)
+## Next steps
 
-Proof for Base Guild ✅ (22 Oct 2025)
+I plan to keep improving my GitHub profile by creating small, practical projects and learning clean project structure step by step.
